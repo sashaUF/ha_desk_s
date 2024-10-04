@@ -37,9 +37,9 @@ wifi:
 external_components:
   - source:
       type: git
-      url: https://github.com/strange-v/ha_deck
+      url: https://github.com/sashaUF/ha_desk_s
       ref: main
-    components: [ hd_device_sc01_plus, ha_deck ]
+    components: [ hd_device_wt32s3_86s, ha_deck ]
 
 web_server:
   port: 80
